@@ -1,0 +1,435 @@
+1: level 1 staffs 
+3: level 3 swords 
+4: level 5 swords 
+6: warpforce shop 
+8: sword haven helm shop 
+9: elissa's pirate shop 
+10: battleon upgrade shop 
+11: valencia's ac coin shop 
+12: aria's member pet shop 
+13: warlic's magic shop 
+15: dwakel weapons 
+16: yulgar weapon shop 
+21: base class shop 
+22: thok's warlord shop 
+23: arcaina's sorcerer shop 
+24: juvania's acolyte shop 
+25: metrea's renegade shop 
+27: mazumi's assassin shop 
+31: new shop 
+32: cinco de mayo shop 
+38: dragonslayer item shop 
+39: standard newbie shop 
+40: crimson paladin armor shop 
+41: battleon mega armor 
+42: artix's platinum axe shop 
+44: citadel rewards shop 
+45: chaos element weapon shop 
+46: pactogonal knight shop 
+47: evil shadowfall shop 
+48: good swordhaven shop 
+49: travelling moglin shop 
+52: chainsaw shop 
+53: adventure quest shop 
+54: dragonfable shop 
+55: mechquest shop 
+56: evil mobius victory shop 
+57: good mobuis victory shop 
+59: summer break shop/new shop 
+60: chuckles skull shop 
+61: peacock's costume shop 
+62: mustartd's costume shop 
+63: plum's costume shop 
+64: hitchgreen's costume shop 
+65: scarlet's costume shop 
+66: whiteberry's costume shop 
+67: sleuthhound butler shop 
+69: player suggestion shop 
+70: house furniture item shop 
+71: house shop 
+72: house wall item shop 
+73: house other item shop 
+74: mercuria's mage shop 
+76: skull crusher shop 
+77: wolves shop 
+78: black knight shop 
+79: moon shop 
+80: dwarfhold shop 
+81: deady shop
+82: drow assassin shop 
+83: dwarf furniture shop 
+84: dwarf war shop 
+86: good alliance shop 
+87: evil alliance shop 
+88: good rep. shop 
+89: evil rep. shop 
+90: enhancement shop 
+92: pirate house shop 
+93: anime costume shop 
+94: martial arts shop 
+95: imperial shop 
+96: yokai house 
+97: chochinobake shop
+98: ryoko / notruto shop
+99: voltaire house items shop
+100: doom knight shop
+101: ac doom knight shop
+102: canadian thanksgiving shop
+103: beckett's shop
+105: mogloween seasonal shop (rare)
+106: mogloween ac items shop (rare)
+107: platinum dragon shop (rare, plus founder badge needed)
+108: mummy mask shop
+112: bloodgroove
+114: basic enhancement shop(levels 1 and 2)
+118: pvp shop
+119: mount frost shop
+120: northlands
+121: ptr shop (none)
+122: ptr shop (none)
+123: ptr enchantments
+126: king coal shop
+130: yokai battleon shop
+131: yokai rep shop
+132: chaotic odokuro house shop
+133: valentines day 10' (rare)
+134: valentines day 10' (rare)
+135: year of the tiger
+136: year of the tiger house items
+137: oishi's pancake shop
+138: z's shop
+139: vampire rep shop
+164: gothy girl shop
+165: girly girl shop
+167: werewolf house shop
+168: easter shop 10'
+170: warrior class shop
+171: warlord class shop
+172: rogue class shop
+173: renegade class shop
+174: mage class shop
+175: sorceror class shop
+176: healer class shop
+177: acolyte class shop
+178: ninja class shop
+179: paladin class shop
+180: adventurer enhancement shop
+181: ptr ac shop
+184: exp boost shop
+185: captain lore shop
+186: mythsong rep shop
+187: mythsong item shop
+188: mythsong pet shop
+189: randor's birthday shop
+190: cinco de mayo 10'
+191: mothers day 10'
+192: dorions mode ac shop
+193: zues shop
+194: j6 weapon shop
+195: cysero wedding shop
+196: father's day 10 shop
+197: mythsong war shop
+199: one eyed doll event completed shop
+200: one eyed doll house shop
+202: hollowsoul shop
+203: freedom shop
+204: hollowsoul castle/chroma theatre shop
+205: green guitar shop
+206: chicken cow shop
+208: viral shop
+211: reens' potion shop
+212: blakk's pets
+213: moonwrath's items shop
+214: arcangrove rep shop
+215: undead warrior shop
+216: undead legion shop
+217: mudluk mushroom shop
+220: birthday ac shop
+223: mogloween seasonal candy shop
+224: rotting pumpkin shop
+226: one-eyed doll video shop
+227: ae calendar shop
+228: ae novel shop
+229: hollow halls merge shop
+232: skyguard outfitters
+235: chaorrupted northlands gear
+236: blinding snow shop
+237: the void
+238: undead legion merge
+239: blizzy's shop
+240: holiday house shop
+241: new year house shop
+242: sandsea rep shop
+243: sandsea pet shop
+244: sandsea house shop
+245: sandsea food shop
+248: battleunder merge shop
+249: limited qty shop
+250: ed shirt shop
+254: herosmash alpha shop
+258: mad green inventor shop
+259: skyguard rep shop
+260: skyguard pet shop
+263: skyguard weapons
+264: the shop of horrors merge shop
+265: card clasher shop
+267: card clasher house shop
+272: alina's potion and weapon shop
+273: doom wood arena merge shop
+276: doom wood challenge shop
+277: doom wood rep shop
+278: doom wood food shop
+279: doom wood weapons shop
+280: doom wood camouflage shop
+282: necromancer shop(all member items)
+283: necromancer class shop
+285: necromancer class merge shop
+284: bandit basher merge shop
+285: necromancer class
+286: dragon hero shop
+287: stone paladin merge shop
+288: stone paladin armor shop
+289: 3 month member shop
+290: 15 month member shop
+291: shadowfall war merge shop
+292- arcattack event rares
+293: vip upgrade shop or as i know it 2011 armor token changes into 12 month armor soon. xd
+294: arcattack backstage
+295: gravelyn's shop
+296: vayle's shop
+297: zorbak on a skull throne shop
+298: ???'s shop also known as daimyo's shop
+299: class dealer shop
+300: bad ending shop
+301: j6 junkyard merge shop
+302: samba armor merge shop
+303: oishii's cooking shop
+304: cooking lessons shop
+305: troll painting shop
+306: troll rep shop
+307: bachius' weapon shop
+308: horc rep shop
+309: sput's butcher shop
+310: ghaz's weapon shop
+311: chaoslord mod pack (chaotic flying eye)
+312: doomwood mod pack (vordreds sword)
+314: twilly's key shop (magic key shop)
+315: dragon con shop
+316: horc war merge shop
+317: horc war merge shop
+320: paladin slayer class merge shop
+321: troll defiance shop
+322: horc defiance shop
+323: tmbg rares shop
+324: vindicator token merge
+325: super fan token shop
+326: tmbg house shop
+328: adventurer enhancements
+329: vindicator of they shop
+330: troll merge shop
+331: horc merge shop
+332: x'dir's rare shop
+334: paymentez shop
+336: zazul's treasure chest
+340: toy sepulchure shop
+341: toy artix shop
+342: doom knight fortress shop
+343: paladin's castle shop
+344: mulgulp's shop
+345: ancient mudluk forge shop
+347: beleen's merge shop
+351: fire rep shop
+355: kage's shop
+356: dynamite shop
+357: as'iiur's potions
+358: draco house item shop
+359: air rep shop
+361: agent sloan's chest
+362: fishing house shop
+363: fishing gear shop
+364: water rep shop
+365: cornelis family cache
+366: cysero's lens shop
+368: earth rep shop
+369: legion soul shop
+371: member bonus 2k ac shop
+372: member bonus 5k ac shop
+373: member bonus 12k ac shop
+374: carnaval shop
+375: spirit hunter shop
+379: australia day shop
+380: australia day house item shop
+381: cheezburger trade in shop
+382: etherstorm evil merge shop
+383: desoloth merge shop
+384: j6 shirt shop
+389: magic theif rewards shop
+391: deady sleetzer shop
+395: alchemy items shop
+396: academic merits shop
+397: alchemy reagents shop
+399: hack trapper/ban shop. do not load this shop( it will ban you)
+401: royal undead slayer shop
+406: coffee dragon print shop
+407: vayle's doomwood shop
+408: doomwood 2 rep shop
+409: xan poster shop
+412: missing sock shop
+413: data for merits shop (jera)
+418: data for merits shop (uruz)
+419: data for merits shop (fehu)
+420: data for merits shop (gebo)
+421: war prep shop
+422: artix merge shop/ armored daimyo shop
+423: evil marge shop/ dark armored daimyo shop
+424: 50% zombie war shop
+425: zombie merge shop
+427: 100% zombie war shop
+428: good heroes poster shop
+431: 50% chop shop
+432: 100% saviour shop
+433: cvs promo shop
+434: forge metal shop
+435: finale rewards shop
+436: banzai souvenir shop
+437: absurd monster foot shop
+439: the span rep shop
+440: tek's gears
+443: cysero's orb pet shop
+447: pyromancer shop
+448: gamestop promo shop
+449: target promoshop
+451: nulgath ac rares
+452: nulgath war merge shop
+453: dage ac rares
+454: dage war merge shop
+455: legion war shop
+456: nulgath diamond shop
+458: death bunny nitro shop
+460: evil war print shop
+461: lore lympics shop
+462: epic duel armor shop
+464: stranger shop(laken's armor)
+465: dilligas' merge shop
+466: vacation castle of nulgath shop
+467: exos merge shop
+468: powergem shop
+469: nulgath war reward shop
+471: good allegiance shop
+472: evil allegiance shop
+473: celcric's temple shop
+474: solaris shop
+475: lunaris shop
+476: suggestion shop
+477: cave painting shop
+478: lag ptr reward shop
+480: j6 wedding rares
+481: my first battlepet shop
+482: hyperium wedding house shop
+483: 4th upholder shop
+485: zorbak shirt shop
+486: deaths rewards
+487: deaths rares
+492: hs anniversary shop
+494: ebilcorp house shop
+495: ae event rares shops
+496: ec event rares shop
+497: 4th birthday shop
+498: alina wedding rares
+499: chunin shop
+500: 4th birthday merge shop
+501: mogloween 2012 shirt shop
+502: 10 year anniversary shirt shop
+503: something about a dragon shop
+504: united nations day shop
+505: committed event rare shop
+506: committed merge shop
+507: mogloween committed
+508: 2013 calender shop
+509: cysero's tutorial shop
+511: referral shop
+512: destiny shop
+513: guilds ptr shop
+516: the span war merge shop
+517: the span war rares shop
+518: fall dryad merge shop
+520: sword of hope shop
+521: athon's frostval shop
+522: beleen's birthday shop
+523: beleen's birthday house shop
+524: baby yeti t-shirt shop
+535: season shop tokens
+538: lionfang invasion ac shop
+544: thunderforge rep shop
+545: jade samurai shop
+547: darkblood armors shop
+548: flaguard weapons
+551: silver duelist shop
+553: shadow of sepulchure shop
+554: shadow wraith pet
+555: dark empress blade shop
+556: chickencow bock two shop
+560: trophyhunter shop
+563: tournament shop
+567: stonehand shop
+568: treasure chest shop
+569: not a mod shirt
+570: legion poster shop
+572: death pits rewards shop
+573: shadowscythe shirt shop
+578: dragon claw shop
+581: galanoth birthday merge shop
+582: dragonslayer rewards shop
+583: royal commander shop
+588: treasure map shop
+589: j6's darkblood mansion shop
+590: seasonal preview shop
+597: warp necro cape shop
+600: astral guardian shop
+601: cysero bacon t-shirt shop
+612: lightcaster shop
+614: ravenscar shop
+615: ravenscar legion shop
+617: blood titan merge shop
+618: mirror tealm merge shop
+631: gear of awe shop
+632: awe merge shop
+633: hybrid awe enchantment shop
+635: figher awe enchantment shop
+636: wizard awe enchantment shop
+637: theif awe enchantment shop
+638: healer awe enchantment shop
+639: lucky awe enchantment shop
+652: mort's shop
+653: aqw guide shop
+657: mq t-shirt shop
+658: summer seasonal preview shop
+660: aenea's shop
+661: sybil's shop
+662: shadowfire emperor shop
+663: legion champion shop
+667: trigoras challenge
+668: cysero merge shop
+669: meme moglin shop
+670: charon's purge merge shop
+671: ninja warrior shop
+672: building shop.. also known as the guild building shop
+673: shadowfire emissary shop
+674: dark water rares shop
+675: guiding blade shop
+675: mini valoth shop
+678: ironwood rares shop
+681: sibyl's merge shop
+682: aenas' merge shop
+683: combo breaker shop
+684: mech quest finale shop
+685: dage underworld rares shop
+686: nulgath archfiend rares shop
+687: july moglin pets shop
+688: artist showcase: j6 shop
+689: maedoc's shop
+690: warlic's shop
+691: mueran shop
+694: archfiend class shop(ac)
+695: archfiend class merge shop
+697: ven showcase shop
