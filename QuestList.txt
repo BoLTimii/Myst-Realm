@@ -1,0 +1,2963 @@
+1: first quest
+2: chieftain’s head
+3: chipped tooth
+4: hideous tail
+5: funny bone
+6: porkon’s pride
+7: zorbak’s reward
+8: secret map
+9: farm cleanup
+10: pet food delivery
+11: twilly’s new staff
+12: rubber ducky
+13: rats off to ya!
+14: specialty pizza
+15: defend the gates
+16: undead invasion
+17: undead slaying
+18: evil must be stopped
+19: i heal good
+20: robina’s quest
+21: missing boxes
+22: backyard zards
+23: garden snails
+24: attic spiders
+25: the bone?
+26: tempestuous times
+27: willow creek
+28: pirate’s treasure
+29: smells fishy to me
+30: salmagundi
+31: map recovery
+32: defend the rats
+33: rats in the cradle
+35: short in spoons
+36: short in forks
+37: letter interception
+38: not a noob
+39: missing king
+40: take down
+41: starving pets
+42: picky eaters
+43: missing crate
+44: wilderness
+45: trobble bath
+46: home sick
+47: golden shrooms
+48: blue feathers
+49: flying tails
+50: mixing pot
+51: hungry for a recipe
+52: missing ingredient
+53: delicious ingredient
+54: recipe needed
+57: growing plants
+58: storage speyeders
+59: can you do it?
+60: something in the water
+61: hair, tooth and bone
+62: ruined plans
+63: bait and switch
+64: restocking
+65: spear sabotage
+66: retaliation
+67: camping out
+71: unreadable map
+72: fishing bait
+73: darkness rising
+74: flood of power
+75: trainee
+76: endurance
+77: path of the warrior
+78: mix it up!
+79: shadow skills
+80: evade and counterstrike!
+81: essential magics
+82: glimpse of the dark side
+83: undead energy
+84: healer of knowledge
+85: white wizard
+86: protection
+90: ninja grudge
+91: without a trace
+92: hit job
+93: chilling costume
+94: candy basket
+95: candy craze
+96: chocolate goodness
+97: lollipop potion
+98: mystery candy
+99: can’t have enough
+100: stone endurance
+101: heart of stone
+102: fire endurance
+103: burning heart
+104: water endurance
+105: liquid soul
+106: dark endurance
+107: heart of darkness
+109: dragonbane
+110: dragon scales
+111: dragon souvenirs
+112: dragonslayer
+113: warrior spirit
+114: mage essence
+115: shadow hour
+116: light ways
+117: fighting exercise
+118: tougher monsters
+120: bejeweled blade
+121: warrior claymore blade enchant
+122: quadrolithium
+123: dam balloons
+124: bumper bolts
+125: mithril man batteries
+126: protosartorium parts
+129: food fighter badge quest
+130: scout the cornycopia
+131: unboiling water
+132: the corn has ears
+133: an apple a day
+134: whine n’ cheese
+135: fruit of the loot
+136: the turdraken
+139: pain-apple!
+140: squishy squash!
+141: ice cream!
+142: ring of pain!
+143: cholesterious
+144: murray’s revenge
+145: crusaders schmusaders
+146: bad captains
+147: which witch is which
+148: murray’s hunch
+149: magic overload
+150: magic devouring beast!
+151: grand inquisitor’s surprise visitor
+152: turn frost dragon into dracolich!
+153: turn dracolich into dragon!
+154: piercing arrows!
+155: rescue blizzy
+156: scary snow men
+157: moglin popsicles
+158: crystal spider
+159: fluffy bears
+160: blue eyed beast
+161: trouble makers
+162: bad ice cream
+163: greedy sneevil
+164: shadow figure
+165: dragonslayer veteran
+166: dragonslayer sergeant
+167: dragonslayer captain
+168: dragonslayer marshal
+169: dragonslayer reward
+170: turn red dragon into dracolich
+171: turn dracolich into red dragon
+172: jars of slime
+173: sneevil boxes
+174: behind the bush?
+175: defeat dogear
+176: undead assault (storyline)
+177: skull crusher mountain (storyline)
+178: the undead giant (storyline)
+179: talk to the knights (storyline)
+180: defend the throne room (storyline)
+181: summoning complete
+182: grand inquisitor’s penance
+183: enter the gates
+187: fire gem
+195: shadowfall quest1
+196: shadowfall quest2
+198: slimes on a bridge
+199: pirate hat
+200: pirate cutlass
+201: undead pirate’s guitar
+203: holy scuba gear
+204: deep diver helmet
+205: braken bass
+206: ghost ship in a bottle
+207: trident of storms
+208: fishy guitar
+209: fishbone head
+211: rainbow rats
+212: monochrome
+213: destroy the a.r.c
+214: frost that lucky harms!
+215: pot of gold!
+216: the shoe’s news
+217: a shoemaker’s work is never done
+219: the sabbatia
+220: grasses
+221: the spiders have changed
+223: things that go bump in the night
+224: defend town
+225: mega defenders medal
+227: stinging dagger of serpents
+228: royal blade of thorns
+229: staff of the burning abyss
+230: egg hunt: vorpal bunny
+231: egg hunt: backpack [ban quest: don't complete]
+232: dagger of serpents!
+233: blade of thorns
+234: berzerker bunny helm: wooden egg
+235: transforming bunny spear: egg shell
+236: bunny berzerker armor: were egg
+237: bunny on your back: quacked egg
+238: monday… bone mace!
+239: tuesday… broom of doom!
+240: wednesday… faerie sai!
+241: thursday… speargun!
+242: friday… liquid hot magma axe!
+243: saturday… chakram dagger!
+244: sunday… sludge sword!
+245: winged spies
+246: chaos prisoners
+247: imp-possible task
+248: far sighted
+249: slugfest
+250: chain reaction
+251: epic drops
+252: jarring theft
+253: do later___don’t leave a faerie behind
+254: do later___let them walk
+255: tree hugger
+256: the second piece
+257: ruined ruins
+258: blueish glow
+259: arm yourself
+260: you can’t miss it!
+261: energize!
+262: quickdraw
+263: you’ve been framed
+264: disguise!
+265: to-go box
+266: some assembly required
+267: teleporter report
+268: find the key! (part one)
+269: find the key! (part two)
+270: find the key! (part three)
+271: the lake hydra
+272: escherion
+273: defender
+274: mega defender
+275: savage warlord armor
+276: horc hacker
+277: curve bladed polearm
+278: infantry pole axe
+279: massive horc cleaver
+280: infantry blade
+281: horc mangler
+282: horc claw
+283: steel chopper
+284: pactagonal armet
+285: cyclops warlord helm
+286: red eye staff
+287: yellow eye staff
+288: horc club
+289: undead infantry guard
+290: undead infantry armor
+291: defender’s winged armet
+292: pactagonal defender’s crested armet
+293: undead trooper guard
+294: infantry helm
+295: dem bones (part 1)
+296: dem bones (part 2)
+297: save chuckles!
+298: skull key
+299: flux collection
+300: mega flux collection
+301: warm milk!
+302: cold medicine!
+303: cup of tea, please!
+304: music box for the sleepless
+305: wolves for hire
+306: blue green prints
+307: brick head
+308: vicious wolves
+309: smiles to the west, slimes everywhere
+310: scaly menace
+311: overgrown spiders
+312: dragon might
+313: strange gel
+314: terrifying reptile
+315: the beast with many eyes!
+316: landing swords!
+317: free the sword!
+318: hardly suiting armor
+319: adorable sisters
+320: warm and furry
+321: shell shock
+322: bear facts
+323: give snowbeard his gold
+324: the spittoon saloon
+325: bear it all!
+326: leather feathers
+327: follow your nose!
+328: alarm a llama!
+329: grizzly situation
+330: berry interesting
+331: squeeze water from stone
+332: carrion carrying on
+333: bagged lunches
+334: radiant lamps
+335: having a blast!
+336: secret weapons
+337: rock star
+338: all that glitters…
+339: gemeralds
+340: talc to me
+341: rock me amadeus
+342: what’s mine is yours
+343: upper city gates
+344: bad memory
+345: balance the scales
+346: disapoofed
+347: hoodwinked
+348: claws for the cause
+349: scrambled eggs
+350: the king’s wings
+351: bugging out
+352: lizard gizzard
+353: mock the lock
+354: like butter
+355: jailhouse rock
+356: explosives 101
+357: big bada-boom
+358: hunger pains
+359: lodestone locater
+360: dwarf war defender medals
+361: dwarf war mega defender medals
+362: defeat rock roc
+363: facing vath
+364: youthanize
+365: rattle battle
+366: dangerous decor
+367: bone-afide
+368: sea no evil
+369: that hero who chases slimes
+370: cleanliness is next to kingless
+371: rumble with grumble
+372: tomb with a view
+373: skele-tongue
+374: ring bearer
+375: skeletal sabotage
+376: tunnel of terror
+377: the search for the sword
+378: pirate ship defender
+379: pirate ship mega defender
+380: board the ship
+381: setting sail to yokai
+382: tournament finalist
+383: pockey challenge
+384: ninja challenge
+385: best challenge
+386: lodes of gold
+387: gold digger
+388: where is zhoom?
+389: goldendefender
+390: mega golden defender
+391: squash the king
+392: a bone to pick
+393: where are the wolves
+394: killer, chiller, thriller here tonight!
+395: candy shop cutscene
+396: clearing a path
+397: kanthalite-d
+398: myx it up
+400: boos clues
+401: what’s up, doc?
+402: dog days
+403: faceless threat
+405: zodiac puzzle key
+406: dt
+407: hay there!
+408: got a light
+409: epic gear solid: snack eater
+410: head hunting
+411: testquest
+412: the farmer’s cat!
+413: world wide web
+414: cocoon of doom
+415: a web of lies
+416: tyrantula
+417: newbie shop
+418: newbie fight
+419: book of lore quest
+420: unboiled water
+421: poprockcorn
+422: wormscestershire sauce
+423: cheese n’ whine
+424: commercial sword stage 1
+425: commercial sword stage 2
+426: commercial sword stage 3
+427: commercial sword stage 4
+428: commercial sword stage 5
+429: turkey go boom!
+430: cater to his every dish
+431: mount defender
+432: mount mega defender
+433: ice cold heart
+434: a key discovery
+435: frogery
+436: forging gemeralds
+437: element of surprise
+438: interrogation
+439: locked on combinations
+440: combo breaker
+441: ice nine
+442: ice wyrms
+443: nytheracutscene
+444: dueling dragons
+445: tipping the scales
+446: chest thumping
+447: yellow snow cone
+448: cool down items
+449: take a chill pill
+450: defeated 10
+451: defeated 20
+452: defeated 30
+453: defeated 40
+454: defeated 50
+455: germ boss
+456: twas the night before frostval
+457: find page 2
+458: find page 3
+459: find page 4
+460: find page 5
+461: find page 6
+462: talk to tinsel
+463: circuit breakers
+464: current affairs
+465: not finished yet-i
+466: jinmenju tree
+467: yokai bandits
+468: the fiery fiend
+469: dumpster diving
+470: reduce, respawn, recycle
+471: the hunt for the had
+472: big bad yokai
+473: su-she
+474: kappa cuisine
+476: hisssssy fit
+477: the purrrfect crime
+478: the face off
+479: cat-aclysm
+480: who is the greatest?
+481: defeat o-dokuro
+482: yokai defender
+483: yokai mega defender
+484: defeat war boss yokai
+485: fearsome forest fabrics
+486: shadow embargo
+487: the water chestnuts
+488: defeat kitsune
+489: battle under battleon
+490: brace-r yourself!
+491: inquisitor inquiry
+492: slithering shadows
+493: groundhorc’s day
+494: a grave mission
+495: lending a helping hand
+496: bone appetit
+497: batting cage
+498: his bark is worse than his blight
+499: missing lion
+500: head of lettuce
+501: bad spirit away
+502: lost celebration items
+503: small red envelope
+504: medium red envelope
+505: large red envelope
+506: in the mood
+507: hedge trimming
+508: bear hugs
+509: stoopid kewpid
+510: paper heart
+511: imp ink
+512: heart shaped scale
+513: special delivery
+514: lil’ red
+515: can i axe you something?
+516: a dire situation
+517: blood, sweat, and tears
+518: what a lich!
+519: feeding grounds
+520: going batty
+521: lycan knights
+522: twisted paw
+523: canine canines
+524: dog gone shame
+525: bite is worse than their bark
+526: a wolf’s tale
+527: a twisted mess
+528: you clicked a button!
+529: sink your teeth in
+530: grounded bats
+531: bats of a leather flock together
+532: pain in the neck
+533: sanguine’s territory
+534: a gift of meat
+535: no respect
+536: vampire knights
+537: sanguine
+538: golden ticket
+539: golden ticket tier 1
+540: golden ticket tier 2
+541: golden ticket tier 3
+542: golden ticket tier 4
+543: a-maze-ing race
+544: vampire defender
+545: lycan defender
+546: vampire mega defender
+547: lycan mega defender
+548: purified claymore
+549: void knight deal
+550: dogfight
+551: bone roam
+552: war boss fight
+553: nulgath is kind
+554: the leery contract
+555: supplies to spin the wheel of chance
+556: the assistant
+557: swindle’s return policy
+558: empowering items
+559: iron wing helm enchant(evil)
+560: iron wing helm enchant(good)
+561: a sample of twillight
+562: none shall remain!
+563: breaking prawn
+564: search and report
+565: the key is the key!
+566: secret words
+567: dracowerepyre
+568: bone dust reagent
+569: cube reagent
+570: essence of defeat reagent
+571: impossible, empowered items of nulgath
+572: hex of nulgath
+573: blood of nulgath
+575: fiend of nulgath
+576: shadow of nulgath
+577: hex: the indecisive minion
+578: blood: the indecisive minion
+579: fiend: the indecisive minion
+580: arcane orb
+581: blood orb
+582: primal orb
+583: darkness orb
+584: ordinary cape
+585: cleansing of the spinal tap
+586: cursing of spinal tap
+587: spinal tap of nulgath
+588: phoenix blade of nulgath
+589: the weapon parasite
+590: oblivion blade of nulgath
+591: doom worm creepers
+592: grumble, grumble…
+593: assistance of nulgath
+594: peace, love, and rock elemental
+595: gearheads, man!
+596: boogie on!
+597: wolfwing good end
+598: wolfwing evil end
+599: the dark deal
+600: crag’s trist
+601: voucher item(member)
+602: voucher item(non-member)
+603: diamonds of nulgath sale
+604: purchase drudgen the assistant
+605: drudgen the salesman
+606: purchase sword of nulgath
+607: archfiend cloak
+608: fired & re-hired
+609: bamboozle vs drudgen
+610: the marks
+611: werepyre slayer armor
+612: werepyre slayer helm
+613: werepyre slayer wings
+614: werepyre slayer sword
+615: potion surplus
+616: lighting scrolls of lighning
+617: exp boost [one-time quest]
+618: breaking wind turbines
+619: plant matters
+620: all wet
+621: flame on
+622: chaos footprint
+623: secret item
+624: combat style: soulreaper of nulgath
+625: combat style: taro’s manslayer
+627: combat style: champion of nulgath
+628: combat style: betrayal blade of nulgath
+629: combat style: dragonbone axe
+631: combat style: dread saw of nulgath
+632: combat style: tainted claymore
+633: pet shop toys
+634: hpbreaker
+635: seek and destroy
+636: bad reputation
+637: combat style: purified claymore of destiny
+638: fiend face
+639: blood guard
+640: hex mask
+641: shadow guard
+642: nulgath
+643: hidden edge
+644: victims of circumstance
+645: the four hoarsemen
+646: crit ‘em with your best shot
+647: rep speedwagon
+648: stairway to haven
+649: rolling stones
+650: light my fire
+651: knockin’ on haven’s door
+652: practice makes perfect bottle
+653: tap that cactuse
+654: get me that recipe!
+655: tip out
+656: juice on the loose
+657: bottle trade
+658: staying alive
+659: killer queen
+660: satisfaction
+661: dance, dance, dance
+662: fiend claws
+663: blood blades
+664: hexing staff
+665: piercing shadow
+666: ungodly items of nulgath
+667: tainted claw
+668: purified claw
+669: void knight deal (temporary quest)
+670: blood orb (temporary quest)
+671: arcane orb (temporary quest)
+672: primal orb (temporary quest)
+673: shadow orb (temporary quest)
+674: j6 quiz game
+675: bad moon rising
+676: burning down the house
+677: superstition
+678: soul man
+679: lend a helping handkerchief
+680: two eyes
+681: beards rule!
+682: fancied feather
+683: requesting a request
+684: watch out!
+685: legendary quest of adventure
+686: classic hack-n-slash
+687: yeah, another quest
+688: insert quest title here
+689: key of life
+690: key of dreams
+691: key of thought
+692: key of the void
+693: access zephyrus
+694: zephyrus end
+695: birds on a train
+696: ticklish zorbo pet
+697: ticklish zorbo sword
+698: mission1
+699: mission2
+700: the ring’s the thing
+701: optimus slime
+702: ore else…
+703: the softest card
+704: boil it, mash it, put it in a stew…
+705: music defender
+706: mega music defender
+707: mythsong war cutscene\
+708: unused quest
+709: pony gary yellow
+710: kimberly
+711: turn out the lights.
+712: warm up? no, warm down.
+713: this is key
+714: i love the keys
+715: off key
+716: we’re going to need a bigger key
+717: property appraiser
+718: pain in the grass
+719: dust busting
+720: cat-astrophe
+721: skynner’s list
+722: a mushy situation
+723: w-tea f
+724: a skunkweed by any other name…
+725: there is no spoon
+726: totem of nulgath
+727: blood orb
+728: arcane orb
+729: primal orb
+730: shadow orb
+731: void knight deal
+732: combat style: dual betrayal blade
+733: combat style: betrayal blade of nulgath
+734: combat style: dual dread saw
+735: combat style: dread saw of nulgath
+736: oblivion blade of nulgath
+737: spare parts
+738: 4 trophy prizes
+739: 20 trophy prizes
+740: 50 trophy prizes
+741: 100 trophy prizes
+742: 150 trophy prizes
+743: racer
+744: trophy reward 5
+745: trophy reward 7
+746: trophy reward 10
+747: andre defeated
+748: flea be gone
+749: free the key
+750: listen to george lowe’s story
+751: free slime-girls
+752: free slime-boys
+753: slime dress-up
+754: slime-warlic’s info
+755: gather salt
+756: defeat the giant slob
+757: the first 6 chapters
+758: the last 6 chapters
+759: the glossary
+760: the book’s cover
+761: dream-maze
+762: big bad kwueger man
+763: george lowe-viathan
+764: super george lowe-viathan
+765: twisted items of nulgath
+766: dragonblade of nulgath
+767: warden of light armor
+768: conqueror of shadow armor
+769: light warden helm
+770: shadow conqueror helm
+771: behemoth blade of light
+772: behemoth blade of shadow
+773: divine retribution
+774: legendary retribution
+775: infamous revenge
+776: venomous shadow blade
+777: masculine helm of glory
+778: feminine helm of glory
+779: bearded helm of glory
+780: the armet of the afterlife
+781: steel afterlife
+782: bearded armet of the afterlife
+783: ultimate victory armet
+784: helm of ultimate victory
+785: basic war sword
+786: roasted marshmallow on a stick
+787: nuked mallow
+788: make a marshmallow on a stick
+789: undead champion initiation
+790: mourn the soldiers
+791: understanding undead champions
+792: player vs power
+793: hail to the king
+794: a necessary sacrifice
+795: gorillaphant poaching
+796: mustard and pretzel root
+797: thyme and a half
+798: thistle do nicely
+799: pleased to meat you
+800: arcanrobe
+801: ebony and ivory tusks
+802: experiment 107: elder’s blood potion
+803: experiment 231: sparrow’s blood potion
+804: experiment 808: viper’s blood potion
+805: observing the observatory
+806: ewa the treekeeper
+807: bear necessities of liferoot
+808: acorny quest
+809: ravenloss
+810: it’s a bough-t time
+811: wendigo whereabouts
+812: sprig cleaning
+813: find paddy lump
+814: toothy smiles
+815: slimy cyrus
+816: lord of the fleas
+817: not the best idea
+818: gates and guardians
+819: scales and tails
+820: omnomnoms
+821: legion exercise number 1
+822: legion exercise number 2
+823: legion exercise number 3
+824: legion exercise number 4
+825: water you waiting for–find nisse
+826: dive right in
+827: seafood diet
+828: mercenaries
+829: synchronized slaying
+830: the deep end
+831: find umbra, the master shaman
+832: the root of elementals
+833: eupotamic elementals
+834: breaking wind elementals
+835: fight fire with fire salamanders
+836: guardian of the gilead wrap
+837: juggernaut items of nulgath
+838: find felsic the magma golem
+839: liquid hot magma maggots
+840: scorched serpents
+841: playing with living fire
+842: kindling relationship
+843: obey your thirst for adventure
+844: captain falcons
+845: big, bad, and baddest bosses
+846: the great mana golem
+847: chaos lord ledgermayne
+848: feed me
+849: tacomancer armor!
+850: follow paul and storm to the mirror realm
+851: get the list!
+852: help control the pet population
+853: impress the queen
+854: a gift of silver
+855: crown of blood
+856: ear-responsible
+857: a carton of chaos
+858: free the poultry
+859: defeat nugget man
+860: like a literal pack of wolves
+861: thin the ranks
+862: defeat lieutenant scarface
+863: locate the lords of order
+864: defeat undead artix
+865: the multiverse is safe
+866: a timely meating
+867: hire mini nulgath
+868: nulgath
+869: diamond exchange
+870: contract exchange
+871: investigate the farmhouse
+872: children of chaos
+873: where is that barn key?
+874: investigate the barn
+875: malik-eye is so grounded
+876: clearing the candy corn field
+877: so sick of eye-sac
+878: she who walks behind the stalks
+879: candy corn
+880: mogloween defender
+881: mega mogloween defender
+882: skull of a lich!
+883: fiends in high places
+884: a whirled wide traveler
+885: boiler spoiler
+886: this fight will dragon
+887: things are looking u
+888: don’t get mad, get gladius
+889: gel-oh-no box
+890: cyser-no!
+891: pink balloon of doom
+892: the hundred foot tall twilly
+893: turtle shells pop balloons
+894: make things pop with a sentry bot
+895: web browsing for balloons
+896: complete airheads
+897: the final pilgrimage
+898: chasing after a girl
+899: tracking down nythera
+900: searching for splinters
+901: a-void-ing the larva
+902: spawn point
+903: null and void spheres
+904: enter the great void dragon’s lair
+905: spirit abducted
+906: shaking the globes
+907: a demonstration
+908: hearts of ice
+909: defeat garaja
+910: springing traps
+911: frost lions
+912: onslaught keyrings
+913: defeat lionfang
+914: tinsel’s armor gift
+915: tinsel’s helm gift
+916: dissertations bupers camel
+917: crafty creepers: a favorite of mine
+918: running a stable stable
+919: parched pets
+920: vase case
+921: oasis ornaments
+922: the power of pomade
+923: salon quality shampoo
+924: what’s for desert?
+925: porter-inn steaks
+926: delectable desert desserts
+927: oil spills
+928: the scarab sandwich
+929: lore style surf and turf
+930: sandport and starboard
+931: shark diving
+932: thieving cut throats
+933: lost and found
+934: sell-sword sell-outs
+935: the portal puzzle
+936: best fiends forever
+937: crystal encores
+938: fishin’ for jellys
+939: soul searching
+940: agree to help ethan
+941: clues for the clueless
+942: laundry day
+943: strategy guides are key
+944: investigate the storage room
+945: inventory in your inventory
+946: sneevil sabotage
+947: a bribe for the bride
+948: hey there lie-lah
+950: fuel for fought
+951: in ctrl of controllers
+952: to form a platform
+953: the infamous plumber
+954: crafting the emblem of longevity
+955: the black tortoise’s spirit
+956: crafting the emblem of righteousness
+957: the white tiger’s spirit
+958: crafting the emblem of knowledge
+959: the red bird’s spirit
+960: crafting the emblem of good luck
+961: the blue dragon’s spirit
+962: go fetch!
+963: a fowl costume change
+964: after a while…
+965: who you callin’ a chickenman?
+966: solar powered wind burning air conditioning stove
+967: sacred scarabs
+968: a noob is guard
+969: bandaged aids
+970: keys to the royal chamber
+971: confront duat
+972: they’ve gone dark
+973: bad doggies
+974: essentially evil
+975: loose threads
+976: seek the treasure
+977: dreamsand
+978: i dream of…
+979: find a loophole in the contract
+980: girl scouts
+982: defeating the defenders
+983: picky about picks
+984: para-gone jewel
+985: digging deeper
+986: ghastplasm is a blast
+987: aghast over ghastplasm
+988: ab-ducts-ion
+989: ducts crossing
+990: scout out the void giant
+991: component competitors
+992: and more component competitors
+993: brandishing the banishing stones
+994: stall the void giant
+995: sandsational castle
+996: furry fury
+997: keeping secrets under wraps
+998: gem jam
+999: enter the sphinx
+1000: unlamented lamia
+1001: e-vase-ive measures
+1002: tri-hump-hant camels
+1003: i don’t mean to harp on it…
+1004: in-djinn-ious solution
+1005: chaos lord tibicenas
+1006: steamed punks
+1007: the mind goggles
+1008: jules’ rules of cool
+1009: warlord of the hair
+1010: propeller seller
+1011: pet-ty plumbing problems
+1012: dogs and cogs
+1013: steamocto ahoy!
+1014: wells’ embargo
+1015: fullmetal financier
+1016: all steamed up
+1017: let’s get magi-technical
+1018: terrorkind destroyer
+1019: mega terrorkind destroyer
+1020: up to the highest heights
+1021: high-sterical
+1022: elevation sensation
+1023: altitude adjustment
+1024: conquer vertigo
+1025: no matter how dark the night
+1026: the dark (k)nights
+1027: something, something dark side
+1028: one little candle
+1029: conquer nyctox
+1030: death be not proud
+1031: what fear makes
+1032: the little death
+1033: terrify the terrorkind
+1034: conquer thanatops
+1035: face fear
+1036: reduce, reuse, recycle
+1037: go green like a boss
+1038: school’s out for the invasion
+1039: chaobold bullies
+1040: trip the traps
+1041: wreck the warder
+1042: deady’s return
+1043: exit, stage right
+1044: the wedge
+1045: freedom?
+1046: other ideas?!
+1047: got a light
+1048: badaboom!
+1049: lack of subtlety
+1050: look around
+1051: caboose key
+1052: slow your role
+1053: slow the coal
+1054: laying traps
+1055: gathering mats
+1056: pirate hats
+1057: that’s a wrap
+1058: hard water
+1059: raising the stakes
+1060: stop! potion time.
+1061: inscrutable motivation
+1062: paradise is not so nice
+1063: victory most honorable
+1064: bony battalion
+1065: warrior rez-queue
+1066: bone-tired backup
+1067: reconnaissance route
+1068: fight against shadowed light
+1069: camouflage: skelly-style
+1070: de(ad)ception
+1071: gone but not forgotten
+1072: hole-y armor patching
+1073: sticking it to the undead
+1074: walking wounded
+1075: holy wasabi
+1076: light yogurt ingredients
+1077: a brutal mistake
+1078: no light-hearted expression
+1079: palladinum paladin parts
+1080: lightguard keep found
+1081: zorbak’s hideout
+1082: stink-tuary
+1083: the infected
+1084: chopping spree
+1085: gravestop the creature
+1086: un-fortune-ate fountain
+1087: id what you did there
+1088: the ego and the id
+1089: artix stopped!
+1090: an ideal seal
+1091: need for speed (reading)!
+1092: floor 1
+1093: floor 2
+1094: floor 3
+1095: floor 4
+1096: floor 5
+1097: floor 6
+1098: floor 7
+1099: floor 8
+1100: floor 9
+1101: floor 10
+1102: dead-forestation
+1103: ecto-skeleton armor-enabler
+1104: banditing together
+1105: booty becomes barrier
+1106: we didn’t start the fire (oh, wait…)
+1107: granny’s final request
+1108: crag & bamboozle battle
+1109: oblivion blade of fighting (from rare blade)
+1110: fighting phoenix blades
+1111: the guardian taro blademaster
+1112: silence is ghoulden
+1113: ghouls with gall
+1114: goals for ghouls and other undead
+1115: knee bone’s connected to the thigh bone
+1116: hip bone’s connected to the back bone
+1117: back bone’s connected to the neck bone
+1118: slip n’ slimes
+1119: sl-eye-me
+1120: bones over brawn
+1121: skullaton shells
+1122: oblivion blade of fighting
+1123: level 1
+1124: level 2
+1125: level 3
+1126: level 4
+1127: level 5
+1128: level 6
+1129: level 7
+1130: level 8
+1131: level 9
+1132: level 10
+1133: level 11
+1134: level 12
+1135: level 13
+1137: level 14
+1138: level 15
+1139: level 16
+1140: level 17
+1141: level 18
+1142: level 19
+1143: level 20
+1144: defy the dracolich
+1145: restore the tome
+1146: recover the pages
+1147: reconstruct the codex
+1148: galvanize the guardian
+1149: shadowfall defender
+1150: mega shadowfall defender
+1151: minion morale
+1152: shadowfall is doomed
+1153: grave-lyn danger
+1154: noxious noxus
+1155: castlemania: disharmony and despair
+1156: stringing your enemies along
+1157: out of tune(ing knobs)
+1158: code of condunct-or
+1159: sending out an sos to the world
+1160: this is final zap!
+1161: wire you doing this again?
+1162: die, all of you!
+1163: ample amps required
+1164: upward over the mountain
+1169: charging up!
+1170: vordred boss!
+1171: a gate and terrible monster
+1172: i’m on the hunt, i’m after 58-sr3
+1173: intruder alert! intruder alert!
+1174: robo-mutiny means a bounty! i
+1175: robo-mutiny means a bounty! ii
+1176: robo-mutiny means a bounty! iii
+1177: mission 3
+1178: mission 4
+1179: fossil find fiend
+1180: dancin’ hair-do’s… and hair-don’ts
+1181: samba, samba, samba-style!
+1182: decorate the dance academy
+1183: boar’s feet in salted-butter sauce
+1184: trollolola terrine
+1185: cooking techniques: practicuum
+1186: ain’t gonna paint, no ingredients!
+1187: gallery gala: opens next week!
+1188: the low elvish language
+1189: the high trollic language
+1190: the low trollic language
+1191: dedicated denial of resources attack
+1192: trolls of war
+1193: gentle muse, breathe life into my art!
+1194: encyclopedia trollica
+1198: philosophy of mortality in non-trolls: a study
+1199: reclaim the spirits
+1200: terrestrial seasonings
+1201: dressed to kill
+1202: material horc in a material world
+1203: boar’ ears in salted-butter sauce
+1204: k’thurr horcestra
+1205: biting weapons
+1206: thinking ahead
+1207: eternal vigilance
+1208: tlax’s axe
+1209: zot’s zidar
+1210: sput’s really big cleaver
+1211: horchid planting
+1212: hunter gatherers
+1213: twilly gives you epic rewards, every day!
+1215: sweet dreamlands are made like this
+1216: nightmares in the (dream)realm’s street
+1219: dwakel info
+1220: tortured memories, shattered dreams
+1221: future use
+1222: through the gates of the silver portal
+1223: the perception of inception
+1224: twilightmare laughter
+1225: midnight screams, broken dreams
+1226: horcs stink!
+1227: the time grows closer
+1228: like calls to like
+1229: incense makes sense
+1230: she who asks
+1231: the troll inside
+1232: troll stink!
+1233: it not time yet
+1234: mountain protection
+1235: clear mind, cleanse spirit
+1236: she who asks
+1237: be horc inside
+1238: open treasure chests!
+1239: treasure chests
+1240: eclipse
+1241: eclipse
+1242: level 1
+1243: level 2
+1244: level 3
+1245: level 4
+1246: level 5
+1247: level 6
+1248: level 7
+1249: level 8
+1250: level 9
+1251: level 10
+1252: level 11
+1253: level 12
+1254: level 13
+1255: level 14
+1256: level 15
+1257: level 16
+1258: level 17
+1259: level 18
+1260: level 19
+1261: level 20
+1262: dregas’ mysterious request
+1263: bachius’ disturbing request
+1264: oishii’s disgusting request
+1265: zot gives peace
+1266: sput makes sausage?!
+1267: ghaz experiments
+1268: troll defender
+1269: troll mega defender
+1270: horc defender
+1271: horc mega defender
+1272: chaos scars the trolls
+1273: chaos enrages the horcs
+1274: guarded secrets, hidden treasures
+1275: evidence of chaos
+1276: learn more of the ore
+1277: too little, too late. still needed.
+1278: alliance defiance
+1279: trust in the vision
+1280: into, under the mountain
+1281: has the land been tainted?
+1282: tears of the mountain
+1283: defend the undermountain
+1284: alliance defiance
+1285: chaorruption detection
+1286: skypirate slaying strategies
+1287: strategic alarm sequence
+1288: skyship chase scene
+1289: skypirate shot-caller neutralized
+1290: skypirate map hunt
+1291: skypirate annihilator
+1293: this town in a desktop globe
+1294: dust bunnies can’t hide
+1295: au contr-air holes
+1296: hero eats everything. even pellets.
+1297: the moth defeats the man?
+1298: can you find them?
+1299: you’ve been looking everywhere!
+1300: go for grease!
+1301: dust bunny destroyer
+1302: creepy-crawley collector
+1303: shambush ambush
+1304: bleak despair
+1305: an apple slice? yum!
+1306: don’t drink!
+1307: flying… and falling
+1308: doppelganger wants to hit you!
+1309: catapault climb
+1310: for science!
+1311: scientific accessories
+1312: exquisite dead guy
+1313: hall of stolen heads
+1314: i want a rock
+1315: take out the trash
+1316: tokens of vindication
+1317: dwarfhold membership dues
+1318: good membership dues
+1319: evil membership dues
+1320: yokai membership dues
+1321: vampire membership dues
+1322: lycan membership dues
+1323: mythsong membership dues
+1324: arcangrove membership dues
+1325: sandsea membership dues
+1326: skyguard membership dues
+1327: doomwood membership dues
+1328: troll membership dues
+1329: horc membership dues
+1330: she might be a giant “fan”
+1331: bugged by rares!
+1332: rarely defeated!
+1333: ug
+1334: uga
+1335: ug ug
+1336: uga ug
+1337: malfunction junction
+1338: missing equipment
+1339: the treasure that you
+1340: these trees
+1341: ewwww… totally gross
+1342: the eggs, exiting and new
+1343: someday (today) their mother will die
+1344: more aliens than you can handle?
+1345: spy eyes
+1346: smashed to pieces
+1347: tired of my vigilette dreams
+1348: you’re not the boss of me now
+1349: dinosaur graveyard
+1350: shadow spy eye
+1351: nest stop, home!
+1352: oooo wacka moo!
+1353: alien annihilator
+1354: dino destroyer
+1355: take a bite out of crime
+1356: skullberry picking
+1357: can i axe you a question?
+1358: don’t forg-t
+1359: a monstrous appetite
+1360: undead end in sight
+1361: missing servant
+1362: remember your quest
+1363: head to willowcreek
+1364: are you luca’ing for trouble?
+1365: mostly dead makes trouble
+1366: my servants are only food for me!
+1367: dark moglinster doom
+1368: a sweet treat
+1369: in the headquarters of good and evil
+1370: threat nullification, good and bad
+1371: trap the keepers
+1372: find what is hidden inside
+1373: chaorruption annihilation
+1374: alliance demotion
+1375: scout and return
+1376: good and evil not always right
+1377: trapping savage soldiers
+1378: find what is hidden inside
+1379: chaorruption rejection
+1380: alliance subdues
+1381: tainted shadowed soldiers
+1382: tainted golden soldiers
+1383: divine the alliance leaders
+1384: explore the dragonplane
+1385: lots of fiber
+1386: carrying the torches
+1387: meet me in the earth realm
+1388: breaking chains
+1389: soil sprites
+1390: cripple the earth prime
+1391: moganth's dracoscintilla
+1393: meet me in the dragonplane
+1394: getting your feet wet
+1395: meet me in the water realm
+1396: weaken the bonds
+1397: udaroth is ready
+1398: a loophole
+1399: flipping the script
+1400: udaroth, the water prime
+1401: meet me in the dragonplane
+1402: up in the air
+1403: meet me in the air realm
+1404: a weak wind
+1405: an ounce of prevention
+1406: this is a breeze
+1407: chime time
+1408: cellot, the air prime
+1409: meet me in the dragonplane
+1410: hot hot heat
+1411: meet me in the fireplane
+1412: putting out fires
+1413: at a loss
+1414: backburner
+1415: open fire
+1416: zellare, the fire prime
+1417: meet me in the dragonplane
+1418: open the dragongate
+1419: contain the chaorruption
+1420: ancient ointment
+1421: anoint the ancients
+1422: serpents do no harm
+1423: through nature bars the way
+1424: cleanse the chaorruption
+1425: chaorruption cure?
+1426: guardian salvation
+1427: poison for a purpose
+1428: the heart of the temple awaits
+1429: salvage ancient heritage
+1431: salvage ancient heritage
+1432: serpentress scourge
+1433: subdue the squadrons
+1434: pactoganol aid required
+1435: contain the chaos
+1436: chaorrupted captain encounter
+1437: chaos critters in the crops
+1438: zombehs aren't so smart
+1439: it's the anti-mall
+1440: 28 battles later...
+1441: bandits are bad news
+1442: creatures serving chaos
+1443: bandit battles
+1444: can you regain grams?
+1445: makeup should sparkle!
+1446: the princess is not amused
+1447: i want the perfect pet
+1448: mother's best sushi recipe 
+1449: spice it up!
+1450: animal army for aria
+1451: descent into darkness
+1452: out of darkness
+1453: shine a light on deception
+1454: save yourself, save the soldiers
+1455: battle the baas!
+1456: wounds in stones and beasts
+1457: light in underhome
+1458: truth is its own light
+1459: horcs know mercy
+1460: battle the baas!
+1461: a scent to see beyond
+1462: gathering shards of the heart
+1463: blood calls to blood
+1464: know the nexus
+1465: secure a route home
+1466: dreamdancers' orbs
+1467: master the flames 
+1468: choose: khasaanda confrontation
+1469: know the nexus
+1470: secure a route home
+1471: dreamdancers' orbs
+1472: master the flames 
+1473: choose: khasaanda confrontation 
+1474: clueless 
+1475: filling in the puzzle
+1476: the eyes (and teeth) have it 
+1477: halfway there
+1478: charge it
+1479: what was that?!
+1480: the mudluk vault
+1481: recovering mudluk history
+1482: tempered scrap
+1483: crystalized fernos shard 
+1484: ghoul fire
+1485: vault guardian heart
+1486: tango tango tango!
+1487: pink-a-licious prowl
+1488: pink petal power! 
+1489: flowers for the birthday gal
+1490: dyeing for a challenge
+1491: dyeing for gemstones
+1492: to be a dragonhunter
+1493: the easy path
+1494: the red trophy
+1495: scramble em!
+1496: crush the eggs
+1497: you did it?
+1498: tasty treats
+1499: hidden points
+1500: set the trap
+1501: the hard path
+1502: do not crush the eggs
+1503: heat 'em up
+1504: baby food 
+1505: molting
+1506: fatherly insanity
+1507: what needs to be done
+1508: snow way to know where to go
+1509: arming the undead army
+1510: cold as a corpse
+1511: pretty pretty undead princess decor
+1512: deadifying frost lions
+1513: forest guardian gauntlet
+1514: no more moglin munchies
+1515: gravelyn's most dangerous game
+1516: defiant undead deserters
+1517: tinsel's second armor gift 
+1518: tinsel's second helm gift
+1519: snow turning back!
+1520: venom in your veins
+1521: song of the frozen heart
+1522: a chilling discovery
+1523: cold to the core 
+1524: is the area as big inside as outside?
+1525: the final hour?
+1526: see-sawing through time
+1527: a crack in time saves more than nine
+1528: time bashes on
+1530: shutdown sequence
+1531: chronomancy and chaos
+1532: something smells rotten in etherstorm
+1533: play with fire
+1534: shape of the ship?
+1535: skeleton crew, skeleton key
+1536: dead journal
+1537: sold out!
+1538: abandon all hope...
+1539: in the drink
+1540: below decks
+1541: blow stuff up!
+1542: set me on fire
+1543: walk through fire
+1545: everything's on fire
+1546: baby's on fire
+1547: fire in my heart
+1548: gold ingot
+1549: bolt of silk
+1550: pack of spices
+1551: something stinks!
+1552: gaining trust
+1553: if you can't stand the heat...
+1554: retrieving recollections
+1555: under orders
+1556: locket holds the key
+1557: plans fit for a king
+1558: bound by fire
+1559: heart of fire
+1560: spirit of a dragon
+1561: initiate shutdown sequence
+1562: aura of dragon's flame
+1563: spirit of the black unicorn
+1564: tie a black ribbon 'round an old burnt tree
+1565: daddy's little robotic angel
+1566: making up some makeup
+1567: a mechanical girl's best friend
+1568: blooming blossom bouquet
+1569: sweet firecherry pie
+1570: robot unicorn assemble
+1571: a fresh breath of life
+1572: where air you?
+1573: invading your (sacred) space
+1574: there's magic every-air
+1575: dragon's fire blossom to be found
+1576: the space between
+1577: the burning question
+1578: lightning up the night
+1579: will you take omom?
+1580: the jade spirit
+1581: the crimson spirit
+1582: the magmas spirit
+1583: the cerulean spirit
+1584: the scrawl spirit
+1585: the airborne spirit
+1586: the lava spirit
+1587: trusted sources
+1588: shades of gray
+1589: hiding in shadows
+1590: fading light
+1591: candles in the dark
+1592: shadow battle!
+1593: jade boxes
+1594: musical crystals
+1595: we didn't start the fire
+1596: pay homage to a foreign god
+1597: clash to a cure
+1598: sulfur pure
+1602: eukara's text quest
+1603: stone cold monster
+1604: interview the troops
+1605: the drop spot
+1606: the spider's gem
+1607: enemies on the other side
+1608: get some answers
+1609: recovery of stolen goods
+1610: face the traitor!
+1611: silent sentinel medallion
+1612: sentinels writ
+1613: sentinels platinum coin
+1614: fish food
+1615: catch of the day
+1616: so, something washed up on the beach...
+1617: dilution solution
+1618: a frogdrake's love story
+1619: a little bit of bubbly never hurt
+1620: flight of the fishwings
+1621: hunt for the greater good
+1622: kill the deep dweller
+1623: make marsh-mallows out of them!
+1624: firewater in your veins
+1625: the missing vault
+1626: the shattered lens
+1627: the frame up
+1628: the lenscrafter
+1629: the hidden vault
+1630: the guardian
+1631: the family jewels
+1632: cornelis reborn
+1633: call from deep within
+1634: chrysalis of flames
+1635: glittering secrets of old 
+1636: aria of great significance
+1637: rekindling a pomegranate
+1638: legendary crystal skulls
+1639: return of the crystal beauty
+1640: taking back the shards of secrets
+1641: lament of the lyre
+1642: marc of the sword
+1643: love's odyssey
+1649: oberon's bouquet
+1650: pygmalian's ivory lady
+1651: the ring of shakuntala
+1652: love letters of solitude
+1655: baucis's pitcher
+1656: find the rest of j6
+1657: mer'angel hunting
+1658: search for the cursed lovers
+1659: sing the blues
+1660: land of the red
+1661: find the source of the curse
+1662: defeat the cursemaker
+1663: one moore time
+1664: you only get one shot at true love
+1665: intro to love
+1666: into the underworld
+1667: love ghosts
+1668: help moore
+1669: mercutio 
+1670: out of time
+1671: happy ending
+1672: gateway to the souls
+1673: ghostly zardman souls
+1674: cyclops warlord ghost souls
+1675: escaped wendighost souls
+1676: belrot the ghost souls
+1677: ghostly deathgazer souls
+1678: escaped dai tenghost souls
+1679: mercutio's soul
+1680: ghostly aracara souls
+1681: ghostly grizzlespit souls
+1682: favor for fatih
+1683: rainbows all the way
+1684: fins up!
+1685: lost memories
+1686: remembering...
+1687: a personal effect
+1688: the unintentional tomb
+1689: the spirit speaks
+1690: unseen monsters
+1691: stop it!
+1692: sad farewells
+1693: ectoamber
+1694: screamwave
+1695: spirit ward sigil
+1696: deserter in the ranks
+1697: secure the ship
+1698: infiltration is a go
+1699: elluding capture is not an option
+1700: don't get caught weak in the knees
+1701: alchemy components
+1702: fueling insanity
+1703: insanely insane
+1704: looking for a good hero
+1705: don't regret the evil
+1706: rise of the frogdrake: xp boost
+1707: skeletal warrior upsurge: gold boost
+1708: slimiest spring: class rank boost
+1709: waiting for rep with baited breath: rep boost
+1710: etherstorm warrior good
+1711: etherstorm mega warrior good
+1712: etherstorm warrior evil
+1713: etherstorm mega warrior evil
+1714: etherstorm warrior desoloth
+1715: etherstorm mega warrior desoloth
+1716: redeem the ether-creatures!
+1717: investigate the ether-taint!
+1718: slay the ether-creatures
+1719: investigate the ether-taint!
+1720: dragon sacrifice for desoloth!
+1721: defend your master!
+1722: donation to the dark lord
+1723: embrace the godly mace
+1724: operation overload
+1725: be the shinobi
+1726: a shade of shadow
+1727: vampire inspire
+1728: he's lycan the recruits
+1729: etherstorm war
+1730: etherstorm war half
+1731: desoloth defeated
+1732: appology
+1733: a town divided
+1734: the miller's key
+1735: trailblazer
+1736: fire brigade of one
+1737: fire control
+1738: andesi's family pendant
+1739: signed, seared, delivered
+1740: the xan with the plan
+1743: the tools and the talent
+1744: the shining
+1745: your ad here
+1746: coal hard facts
+1747: material world
+1748: you're a gem
+1749: ore eaters
+1750: more tools? really?
+1751: the strapping hero
+1752: the underhammers
+1753: fighting back
+1754: product
+1755: earn your stripes
+1756: stay sharp
+1757: get us some business!
+1758: rainbow shards
+1759: lucky clovers
+1760: rainbow shards: leprechauns only
+1761: lucky clovers: leprechauns only
+1762: jerastr
+1763: jeraint
+1764: jeraend
+1765: jeradex
+1766: jerawis
+1767: jeraluc
+1768: jeramannone
+1769: jeraheanone
+1770: jerahasnone
+1772: jeracri 
+1773: jerahrenone
+1774: jeramrenone
+1775: jeraevanone
+1776: jerares
+1777: jeradamnone
+1778: jeraapwnone
+1779: jeraspwnone
+1780: jerahit
+1781: jerahou
+1782: jerahlnnone
+1783: jerabla
+1784: jeraalc
+1785: jerafis
+1786: jerascr
+1787: uruzstr
+1788: uruzlint
+1789: uruxend
+1790: uruzdex
+1791: uruzwiz
+1792: uruzluc
+1793: uruzman
+1794: uruzhea
+1795: uruzhasnone
+1796: uruzcri
+1797: uruzhrenone
+1798: uruzmrenone
+1799: uruzevanone
+1800: uruzres
+1801: uruzdamnone
+1802: uruzapwnone
+1803: uruzspwnone
+1804: uruzhit
+1805: uruzhou
+1806: uruzhin
+1807: uruzbla
+1808: uruzalc
+1809: uruzfis
+1810: uruzscr
+1811: fehustr
+1812: fehuint
+1813: fehuend
+1814: fehudex
+1815: fehuwis
+1816: fehuluc
+1817: fehuman
+1818: fehuhea
+1819: fehuhas
+1820: fehucri
+1821: fehuhre
+1822: fehumre
+1823: fehueva
+1824: fehures
+1825: fehudamnone
+1826: fehuapwnone
+1827: fehuspwnone
+1828: fehuhit
+1829: fehuhou
+1830: fehuhin
+1831: fehubla
+1832: fehualc
+1833: fehufis
+1834: fehuscr
+1835: gebostr
+1836: geboint
+1837: geboend
+1838: gebodex
+1839: gebowis
+1840: geboluc
+1842: geboman
+1843: gebohea
+1844: gebohas
+1845: gebocri
+1846: gebohre
+1847: gebomre
+1848: geboeva
+1849: gebores
+1850: gebodam
+1851: geboapw
+1852: gebospw
+1853: gebohit
+1854: gebohou
+1855: gebohin
+1856: geboblanone
+1857: geboalc
+1858: gebofis
+1859: geboscrnone
+1860: dragonstr
+1861: dragonint
+1862: dragonend
+1863: dragondex
+1864: dragonwis
+1865: dragonluc
+1866: dragonman
+1867: dragonhea
+1868: dragonhas
+1869: dragoncri
+1870: dragonhre
+1871: dragonmre
+1872: dragoneva
+1873: dragonres
+1874: dragondam
+1875: dragonapw
+1876: dragonspw
+1877: dragonhit
+1878: dragonhou
+1879: dragonhin
+1880: dragonblanone
+1881: dragonalc
+1882: dragonfis
+1883: dragonscrnone
+1884: dragonstrlow
+1885: dragonintlow
+1886: dragonendlow
+1887: dragondexlow
+1888: dragonwislow
+1889: dragonluclow
+1890: dragonmanlownone
+1891: dragonhealownone
+1892: dragonhaslownone
+1893: dragoncrilow
+1894: dragonhrelownone
+1895: dragonmrelownone
+1896: dragonevalownone
+1897: dragonreslow
+1898: dragondamlownone
+1899: dragonapwlownone
+1900: dragonspwlownone
+1901: dragonhitlow
+1902: dragonhoulow
+1903: dragonhinlownone
+1904: dragonblalow
+1905: dragonalclow
+1906: dragonfislow
+1907: dragonscrlow
+1908: sounds like cysero
+1909: magic-flavored misery
+1910: sending out a stress-os
+1911: lock-blocked
+1912: bridge over troubled wellmet
+1913: focus on the locus
+1914: locus located
+1915: demented deorysa
+1916: traitor takedown
+1917: taking notes
+1918: those blasted misery eels
+1919: boredom at the ball
+1920: just because i'm not a wizard...
+1921: studying for life
+1922: being a wizard's best friend
+1923: beefing up conn
+1924: biscuits and a side of bacon
+1925: a stronger truncheon
+1926: the wizard's apprentice's new clothes
+1927: repairing heatsease
+1928: embero spell
+1929: pickpocketing 101
+1934: thieves are lye-able
+1935: stainless stealers
+1936: pick some pockets to plunder
+1937: what you seize is what you get
+1938: benet's biscuits
+1939: the stolen ritual
+1940: a pound of flesh
+1941: blood of the ancients
+1942: phinding phylacteries
+1943: bats blood rune
+1944: maggots blood rune
+1945: lycans blood rune
+1946: twisted paw's blood rune
+1947: ancient vitae
+1948: poison creation
+1949: vegetal decay
+1950: recycle, rebuild, rescue
+1951: corrosive philtre
+1952: loyalty rewarded, wounds salved
+1953: storm the fort
+1954: termination tonic
+1955: burn all the things!
+1956: eggsamine zard eggs
+1957: eggstreme fishing
+1958: eggscavating dwakel eggs
+1959: egsstraordinary bird eggs
+1960: pay homage to caladbolg
+1961: make way
+1962: black pelt test
+1963: networking fibers
+1964: guess what in a guess where
+1965: splitting hares
+1966: sleezter bunny's quarters
+1967: the sleezter bunvinci code
+1968: take sleezter bunny out!
+1969: mantis ray repair
+1970: a map wouldn't hurt
+1971: endin' minions
+1972: breaking bad eggs
+1973: duruzstr
+1974: duruzint
+1975: duruzend
+1976: duruzdex
+1977: duruzwis
+1978: duruzluc
+1979: duruzman
+1980: duruzhea
+1981: duruzhasnone
+1982: duruzcri
+1983: duruzhrenone
+1984: duruzmrenone
+1985: duruzres
+1986: duruzdamnone
+1987: duruzapwnone
+1988: duruzspwnone
+1989: duruzhit
+1990: duruzhou
+1991: duruzhin
+1992: duruzbla
+1993: duruzalc
+1994: duruzfis
+1995: duruzscr
+1996: dfehustr
+1997: dfehuint
+1998: dfehuend
+1999: dfehuend
+2000: dfehudex
+2001: dfehuwis
+2002: dfehuluc
+2003: dfehuman
+2004: dfehuhea
+2005: dfehuhas
+2006: dfehucri
+2007: dfehuhre
+2008: dfehumre
+2009: dfehueva
+2010: dfehures
+2011: dfehudamnone
+2012: dfehuapwnone
+2013: dfehuspwnone
+2014: dfehuhit
+2015: dfehuhou
+2016: dfehuhin
+2017: dfehubla
+2018: dfehualc
+2019: dfehufis
+2020: dfehuscr
+2021: bunny defeated
+2022: knave1's route to the void
+2023: void spell
+2024: know thy enemy
+2025: an enemy unblooded
+2026: re-open the seal
+2027: weaken the moya
+2028: banish the banished one
+2029: become the desterrat moya (daily)
+2030: prevent the return (daily)
+2031: barely made it
+2032: plant food
+2033: supplies party
+2034: copious notes
+2035: lightguard keystone
+2036: defend lightguard keep!
+2037: lightguard defender tokens
+2038: bridge the gap
+2039: crack the code
+2040: comm module 4dx
+2041: back to base-ics
+2042: secret weapon mecha-death!
+2043: can you hear me now?
+2044: descent into darkness
+2045: retrieve the past, room 1
+2046: retrieve the past, room 2
+2047: retrieve the past, room 3
+2048: retrieve the past, room 4
+2049: deeper into darkness
+2050: retrieve the past, room 5
+2051: retrieve the past, room 6
+2052: retrieve the past, room 7
+2053: monster subway ahead
+2054: underground rail road.. to doom!
+2055: retrieve the past, room 10
+2056: the deepest descent
+2057: retrieve the past, room 11
+2058: retrieve the past, room 12
+2059: retrieve the past, room 13
+2060: five times the fury
+2061: the past will haunt you
+2062: doom overlord challenge
+2063: executive doom overlord challenge
+2064: begin your destiny
+2065: dark spirit orbs
+2066: reforging the blinding light
+2067: secret order of undead slayers
+2068: to be continued next week...
+2069: sepulchure's armor
+2070: thou shalt not pass
+2071: blinded by the darkness
+2072: the tale never dies
+2073: doom outside the dome
+2074: last bastion of light
+2075: shadowy corruption 
+2076: strength of the darkness
+2077: bring down the necropolis 
+2078: overlord evolution
+2079: armored daimyo
+2080: dark armored daimyo
+2082: essential essences 
+2083: bust some dust
+2084: a loyal follower
+2085: chaos vordred battle
+2086: the doom that looms
+2087: the doom that looms
+2088: toiling with terror 
+2089: a penny for your thoughts
+2090: dark spirit donation
+2091: mine crafting
+2092: zombie war
+2093: undead assault 
+2094: skull crusher mountain
+2095: the undead giant
+2096: talk to the knights
+2097: defend the throne room
+2098: hard core metals
+2099: where shall i sleep tonight?
+2100: fight fire with fire
+2101: no one said it would be easy
+2102: free us, oh brave one
+2103: almighty aluminum enchantment
+2104: blessed barium enchantment
+2105: glorious gold enchantment
+2106: immortal iron enchantment
+2107: celestial copper enchantment
+2108: sanctified silver enchantment
+2109: pious platinum enchantment
+2110: accursed arsenic hex
+2111: baneful beryllium hex
+2112: calamitous chromium hex
+2113: pernicious palladium hex
+2114: reprehensible rhodium hex
+2115: treacherous thorium hex
+2116: malefic mercury hex
+2117: rolith defeated
+2118: fight for lore!
+2119: battleon
+2120: lair
+2121: myhtsong
+2123: willowshire
+2124: keep the area clear
+2125: defeat zombie dragons
+2126: defeat your fallen friends
+2127: long unlive the king!
+2128: dark sepulchure must be slain!
+2129: almighty aluminum of destiny
+2130: blessed barium of destiny
+2131: glorious gold of destiny
+2132: immortal iron of destiny
+2133: celestial copper of destiny
+2134: sanctified silver of destiny
+2135: pious platinum of destiny
+2136: basic weapon kit construction
+2137: accursed arsenic of doom
+2138: baneful beryllium of doom
+2139: calamitous chromium of doom
+2140: pernicious palladium of doom
+2141: reprehensible rhodium of doom
+2142: treacherous thorium of doom
+2143: malefic mercury of doom
+2144: doomsquire weapon kit
+2145: enchanted inks for spell crafting
+2146: lesser salves for spell crafting
+2147: runic salves for spell crafting
+2148: unknown alloy for blacksmithing
+2149: volatile temper agent for blacksmithing
+2150: glowing temper agent for blacksmithing
+2151: locate the sealed library
+2152: a powered library lock
+2153: luminate the library lock
+2154: defend the library!
+2155: crossing over
+2156: guardian of shurpu
+2157: face xan
+2162: advanced weapon kit construction
+2163: ultimate weapon kit construction
+2164: doomsoldier weapon kit
+2165: doomknight weapon kit
+2166: medicinal salves
+2167: vial of antitoxins
+2168: planet banzai!
+2169: l.o.s.e.r. battler
+2170: down to the wire
+2171: j6 in spaaaaace!
+2172: secondary mission
+2173: mission 5
+2174: finding fragments with blinding bow
+2175: finding fragments with blinding dagger
+2176: finding fragments with blinding mace
+2177: finding fragments with blinding scythe
+2178: finding fragments with blinding broadsword
+2179: finding fragments with blinding blade
+2180: the blinding light of destiny final
+2181: pinpoint the pieces with necrotic daggers
+2182: pinpoint the pieces with necrotic shade blade
+2183: pinpoint the pieces with necrotic broadsword
+2184: pinpoint the pieces with necrotic scythe
+2185: pinpoint the pieces with necrotic mace
+2186: pinpoint the pieces with necrotic bow
+2187: summoning sepulchure's armor final
+2188: porkon ripoff
+2189: grill the locals
+2190: dogear the cat burglar
+2191: bloodtusk catwalk
+2192: you scratch me back...
+2193: ... and me scratch your ears
+2194: sign here
+2195: the frame up
+2196: that darn cat
+2197: temporal translation tome
+2198: restore tibattleonia!
+2199: gen ed generator 
+2200: speak to the blue mage
+2201: cogs and gears
+2202: flourishes and furbelows
+2203: target practice
+2204: do the 'do
+2205: business is booming
+2206: strut my stuff
+2207: who let the togs out?
+2208: you don't want to know...
+2209: shurpu blaze tokens
+2210: member shurpu blaze tokens
+2211: dem bones, dem icy bones
+2212: icy screams
+2213: pick your battles
+2214: some good adv-ice
+2215: shatter it just a little bit
+2216: dage war turn in
+2217: nulgath war turn in
+2218: prove your allegiance
+2219: only the strong survive today
+2220: grind out goodness
+2221: crush the weak
+2222: find the shadow's door
+2223: one-way trip to neverland
+2224: slash the shadows
+2225: deprogramming for dummies
+2226: guardian of the lab-rary
+2227: quick switch
+2228: were boom-ed
+2229: de-generation situation
+2230: shielded against the shadows
+2231: making a many-armed army
+2232: kreature kibble khaos
+2233: the gangs not all here
+2234: beast maker beat down
+2235: farm for parts
+2236: beefed up baddies
+2237: souls to steal
+2238: souls to feed on
+2239: time to learn the truth
+2240: gain access to doors
+2241: aq lesson
+2242: df lesson
+2243: mq lesson
+2244: alt aqw lesson
+2245: the next lesson
+2246: lack of four-sight
+2247: speak no legion evil
+2248: hoof it til it beaks
+2249: bind it with twine
+2250: hold it together
+2251: build a beast
+2252: break a best
+2253: trust is not emphemeral
+2254: in a split ecasecond
+2255: time to prove yourself
+2256: fill the empty hours
+2257: clock of the long now
+2258: unending avatar
+2259: obtain the dark caster class
+2260: you'll need a spellbook!
+2261: learned all ember spells
+2262: learned all radiant spells
+2263: learned all runic spells
+2264: learned all fading spells
+2265: learned all elemental spells
+2266: learned all hallow spells
+2267: learned all zealous spells
+2268: learned all enchanted spells
+2269: learned all archmage spells
+2270: train evil's army for the alliance
+2271: chaos in hachiko
+2272: hounds of evil
+2273: dragon egg smash!
+2274: poisonforest bandit attack
+2275: shadows of the past
+2276: swordhaven candy thief
+2277: slayer of chaos?
+2278: hounds of good
+2279: dragon egg savior!
+2280: rescue poisonforest villagers!
+2281: shadows of the past
+2282: swordhaven candy return
+2283: slayer of chaos?
+2284: for good
+2285: for evil
+2286: train evil's army for the alliance!
+2287: chaos in hachiko
+2288: purely elemental knowledge
+2289: animal vs human?
+2290: gateway to chaos?
+2291: the nature of chaos
+2292: chaos theory
+2293: a little chaos goes a long way
+2294: dys-geni-c chaorruption
+2295: crafted: scroll of fireball
+2296: crafted: scroll of shadowburn
+2297: crafted: scroll of plasma bolt
+2298: crafted: scroll of dark energy
+2299: crafted: scroll of ssikari's breath
+2300: crafted: scroll of shadow bolt
+2301: crafted: scroll of diamond cage
+2302: crafted: scroll of exorcise
+2303: crafted: scrolls of acid rain
+2304: crafted: scrolls of heart beat
+2305: crafted: scrolls of corrosion
+2306: crafted: scrolls of crushing wave
+2307: crafted: scrolls of wind strike
+2308: crafted: scrolls of arc lightining
+2309: crafted: scrolls of spirit rend
+2310: crafted: scrolls of dark arc
+2311: crafted: scrolls of chains
+2312: crafted: scrolls of eclipse
+2313: crafted: scrolls of purge
+2314: crafted: scrolls of scorched steel
+2315: crafted: scrolls of fire bolt
+2316: crafted: scrolls of holy bolt
+2317: crafted: scrolls of blessed shard
+2318: crafted: scrolls of frostbite
+2319: crafted: scrolls of geyser
+2320: crafted: scrolls of fire flare
+2321: crafted: scrolls of frost flare
+2322: crafted: scrolls of plague flare
+2323: crafted: scrolls of charged flare
+2324: crafted: scrolls of doom flare
+2325: crafted: scrolls of holy flare
+2326: crafted: scrolls of blinding light
+2327: crafted: scrolls of guardian blast
+2328: crafted: scrolls of shadow blade
+2329: crafted: scrolls of furious gale
+2330: crafted: scrolls of enrage
+2331: crafted: scrolls of decay
+2332: crafted: scrolls of death pact
+2333: crafted: scrolls of cantor's lament
+2334: crafted: scrolls of pulse compression
+2335: crafted: scrolls of dissonance
+2336: crafted: scrolls of soul crush
+2337: crafted: scrolls of void strike
+2338: crafted: scrolls of psychic wave
+2339: crafted: scrolls of chaos fog
+2340: crafted: scrolls of torment
+2341: crafted: scrolls of shift burn
+2342: crafted: scrolls of freezing flame
+2343: crafted: scrolls of fire storm
+2344: crafted: scrolls of mystify
+2345: crafted: scrolls of wither
+2346: crafted: scrolls of underworld
+2347: crafted: scrolls of ethereal slumber
+2348: crafted: scrolls of ethereal curse
+2349: crafted: scrolls of dark grip
+2350: crafted: scrolls of weaken
+2351: crafted: scrolls of talon twisting
+2352: crafted: scrolls of petrify
+2353: crafted: scrolls of cripple
+2354: the dead city
+2355: grains of chaos
+2356: call of the sun
+2357: shattered past
+2358: the spoiler
+2359: heart of the sun
+2360: the sol
+2361: star of the wild
+2362: star of the seas
+2363: star of the earth
+2364: the star of flames
+2365: waking history
+2366: gathering shadows
+2367: a less direct path
+2368: interference
+2369: the race is on
+2370: the darkness inside
+2371: the luna
+2372: star of the wild
+2373: star of the seas
+2374: the star of earth
+2375: star of the flames
+2376: construct your reality
+2377: reach the temple
+2378: not all hope is lost
+2379: bolster the elements
+2380: maintain elemental strength
+2381: rescue the innocent
+2382: get fired up... or shatter!
+2383: enemies on ice
+2384: tek-nical forging skill
+2385: akriloth assault
+2386: proto-chaos beast battle!
+2387: night of 100 ninjas
+2388: ultra carnax challenge fight!
+2389: aye for an aye
+2390: skull and crossed bones
+2391: off the hook!
+2392: booty and the beast
+2393: a pirate's lunch for me
+2394: thee secen c's!
+2395: slay the red dragon
+2396: defeat capt. #00000beard
+2397: defeat nulgath
+2398: defeat ultra tibicenas
+2399: defeat ultra carnax
+2400: slay ultra epic vordred
+2401: if you wanna bake a cake...
+2402: gimme some sugar, baby!
+2403: a-salt and batter-y
+2404: purissimo aquae
+2405: spooooooon!
+2406: memoirs of a sailor
+2407: snare some goats
+2408: keys to the love goat
+2409: snares shmares
+2410: mega-goat!
+2411: crush the crashers
+2412: marriage is full of pitfalls
+2413: a favorable outcome
+2414: let's get filthy
+2415: like t-shirt to a flame
+2416: i bless the rains down in lore
+2417: the wind beneath my moglin
+2418: like t-shirts to a flame
+2419: i bless the rains down in lore
+2420: the wind beneath my moglin
+2421: time is running out
+2422: thief of hours
+2423: death-dealing blows
+2424: fear the reaper
+2425: master death's realm
+2426: real live hero-training
+2427: the living library
+2428: understanding xhar morghull
+2429: door to eternity
+2430: death vs death
+2431: taking down ebilcorp
+2432: the ebil sea
+2433: the gel-ous of the forest
+2434: strands of deforestation
+2435: steel shrapnel
+2436: taking life from the unliving
+2437: investment opportunity
+2438: chunin tokens
+2439: chunin tokens for members
+2440: alina's go-go potion
+2441: from the heart
+2442: the duke's judgement
+2443: tog tamer
+2444: get your pinks whiter
+2445: gal's gift
+2446: chilly reception
+2447: the best paladin
+2448: sunday... sludge sword!
+2449: wedding wrong
+2450: the missing happy couple
+2451: just in time
+2452: saving time  
+2453: break time! 
+2454: reflect upon the situation 
+2455: escape the insanity! 
+2456: smoke and mirrors
+2457: shot in the dark
+2458: cyser-oh where art thou? 
+2459: tricks trail trickin' 
+2460: cultivate answers 
+2461: one found doll 
+2462: they key to saving kimberly 
+2463: right tool for the job 
+2464: pick the lock 
+2465: destroy de-sawed 
+2466: demolish de'sawed for real 
+2467: defeat skeletons 
+2468: clear they way 
+2469: defeat the lich 
+2470: elemental orb awareness 
+2471: fight chaos with fire!
+2472: save aria
+2473: find the time to travel
+2474: dragon egg... or junk?
+2475: dracolich fortress detected
+2476: bone up on the boss
+2477: defend the town!
+2478: chickencows, bacon and battle!
+2479: the 2nd proto-chaos beast
+2480: golden draegon hunt
+2481: lost supplies
+2482: master exos' keep
+2484: break the chains
+2485: save the dragon
+2486: eye spy victory!
+2487: defeat exos
+2488: defeat ultra exos
+2489: discover the passage
+2490: farm frenzy
+2491: wish on a dish
+2492: the root of all evil
+2493: home for the holidays
+2494: human-nequins
+2495: defeat then eat!
+2496: fowl play
+2497: chaorrupted golems slain
+2498: cull the chaos golems
+2499: destroy the shadowscythe golems
+2500: goblin wolf-rider quest
+2501: goblin forest warrior quest
+2504: board the shop to your future
+2505: heal the chaos lord
+2506: shadowscythe detection beacons
+2507: test potential traitors
+2508: defeat training globes
+2509: take flight into the future
+2510: secrets of the universe
+2511: mysterious! 
+2512: the 3rd proto-chaos beast
+2513: chaos waits and watches
+2515: the lure of chaosanity
+2516: music of nightmares
+2517: chaos beast kathool
+2518: starry, starry night 
+2519: chaos lord iadoa
+2520: defeat ultra kathool
+2521: defeat ultra iadoa 
+2522: locate kezeroth 
+2523: chronoton deteection
+2524: core knowledge 
+2525: temporal revelation 
+2526: before the darkest hour
+2527: heart of ice 
+2528: absolute zero success
+2529: dirty secret
+2530: frozen venom
+2531: rune-ing his plan
+2532: deadly beauty 
+2533: cold-hearted trophies 
+2534: warmth in the cold 
+2535: icy prizes 
+2536: fading magic
+2537: frostdeep dwellers 
+2538: a breather 
+2539: raiders from frostdeep
+2540: 8 legged frost freaks 
+2541: freezing the stone 
+2542: can you feel the chill tonight? 
+2543: shrouded in ice 
+2544: hard fight for a cold truth
+2545: sand and shardin' bones 
+2546: older and colder 
+2547: the sword of hope 
+2548: rays of hope 
+2549: guardians of time
+2550: chronocorruptors on ice
+2551: death of time 
+2552: you are a unique snowflake 
+2554: tinsel's third armor gift 
+2555: tinsel's cape gift 
+2557: nulgath 
+2558: phoenix blade of nulgath 
+2559: the weapon of parasite 
+2560: doom worm creepers
+2561: the dark deal
+2562: voucher item: champion of nulgath
+2563: diamonds of nulgath sale
+2564: archfiend cloak 
+2565: the marks 
+2566: nulgath (larvae)
+2567: fighting phoenix blades (klunk) 
+2568: nulgath (klunk)
+2570: mana for the magi 
+2571: gathering spell components 
+2572: looking for loggers
+2573: ballista cables
+2574: arrowheads for archers 
+2575: fetching fletching feathers
+2576: a little warmth and light
+2577: behind locked doors
+2578: the lost key
+2579: uncovering pages of the past
+2580: we know where to look 
+2581: a terrible hiding place
+2582: face kezeroth 
+2583: bonus challenge: ultra kezeroth 
+2584: on the 12th quest of frostval
+2585: sever the link 
+2586: patch the fabric of spacetime
+2587: passing past chaos 
+2588: serving up hp helper 
+2589: power the sun
+2590: interrogate night creatures 
+2591: nocturan adept battle 
+2592: fight the darkness
+2593: cloaked in darkness 
+2594: escape to freedom 
+2595: shine a light on truth 
+2596: weave light into dark  
+2597: battle for a new start
+2598: buy time... or steal it
+2600: sword of the legion items
+2601: sword of the legion armor
+2602: chaos investigation
+2603: hunt for answers
+2604: decryption hunt
+2605: prisoner breakout!
+2606: hidden secrets
+2607: mage mystery
+2608: take back remains
+2609: activate teleport rune
+2610: chaos knight attacks
+2611: on to deliverance
+2612: final rest
+2613: disturbing the peace
+2614: sampling silk
+2615: fire is the thing
+2616: the wall comes down
+2617: the bonefeeder
+2618: what lies beyond?
+2619: toxic
+2620: very toxic
+2621: really, very very toxic!
+2622: lion hunting
+2623: secret of the death fog
+2624: the key to survival
+2625: the tools
+2626: the talent
+2627: the local locale
+2628: who holds the key?
+2629: leave no rug unturned
+2630: tame the lion
+2631: quest 1 – feed pets in battleon
+2632: quest 2 – feed pets in greenguard forest east
+2633: quest 3 – feed pets in swordhaven
+2634: quest 4 – feed pets in boxes
+2635: quest 5 – feed pets in graveyard
+2636: quest 6 – feed pets in sewer
+2637: quest 7 – feed pets in shadowfall
+2638: quest 8 – feed pets in mobius
+2639: quest 9 – feed pets in faerie forest
+2640: quest 10 – feed pets in cornelis
+2641: quest 11 – feed pets in dwarfhold keep
+2642: quest 12: feed pets in neverglades
+2643: quest 13 – feed pets in marsh
+2644: quest 14 – feed pets in akiba
+2645: quest 15 – feed pets in bamboo forest
+2646: quest 16 – feed pets in darkovia graveyard
+2647: quest 17 – feed pets in safiria’s castle
+2648: quest 18 – feed pets in lycan ridge
+2649: quest 19 – feed pets in mythsong
+2650: quest 20 – feed pets in stairway
+2651: quest 21 – feed pets in orkestra
+2652: quest 22 – feed pets in arcangrove
+2653: quest 23 – feed pets in northlands
+2654: quest 24 – feed pets in sandsea
+2655: quest 25 – feed pets in doomwood
+2656: quest 26 – feed pets in doomwood ii: aqz
+2657: quest 27 – feed pets in bloodtusk
+2658: quest 28 – feed pets in etherstorm
+2659: quest 29 – feed pets in thespan
+2660: quest 30 – feed pets in blackhorn tomb
+2661: daily quest: feed the pets
+2662: daily quest: treats for pets
+2663: daily: feed the moglins
+2664: how much sharper than lion's tooth?
+2665: fear an ignorant man more than a lion.
+2666: take up the cause
+2667: well kept secrets
+2668: feeding on the fallen
+2669: special delivery
+2670: precious scraps
+2671: restocking
+2672: an innside job
+2673: streets run red
+2674: open the temple
+2675: the open temple
+2676: blood for darkblood
+2677: darkblood life's blood
+2678: more blades, more battle
+2679: battle tested
+2680: king vs beast
+2681: secure shattersword cavern
+2682: shatter fallen warriors
+2683: corruption cleansed
+2684: decimate the defiler's army
+2685: explosive protection potion
+2686: gravelyn's stolen soldiers
+2687: when wild elves attack!
+2688: tree of light
+2689: purity beats corruption
+2690: hero vs beast
+2691: dark sparks
+2692: the land of monsters
+2693: battle and the beasts
+2694: festooned in feathers
+2695: mask your emotions
+2696: crafting the carranca
+2697: party like a boss!
+2698: festive festa floats
+2699: make a muiraquitã
+2700: bando de penas
+2701: construa um amuleto
+2702: terra dos monstros
+2703: feras e batalhas
+2704: decoração de penas
+2705: mascarar tuas emoções
+2706: prepare a carranca
+2707: festança como um chefe!
+2708: guard swordhaven
+2709: stalkers and mercenaries
+2710: brave the bandits
+2711: find the princesses!
+2712: find princess brittany!
+2713: battle khai kaldun
+2714: battle johann wryce
+2715: battle the knight of thorns
+2716: battle roderick
+2717: battle lord brentan
+2718: defeat the minions
+2719: slay the black dragon
+2720: remains
+2721: thriving in rot
+2722: rotting ribs
+2723: a perfect skull
+2724: deeper into death
+2725: precise placement
+2726: painted protection
+2727: they sense you
+2728: they hate you
+2729: the sundered
+2730: rotstone
+2731: honor the dead
+2732: ties to life
+2733: the chaos eye of vestis
+2734: bone ladders
+2735: rotstone daggers
+2736: logash's line
+2737: the drums of the dead
+2740: destroy wrathful vestis and secure the tears
+2741: the soul forge hammer (unlock soul forge)
+2742: obsidian mining
+2743: soul forgery
+2744: undead legion member special
+2745: deposit depot
+2746: souldier
+2747: coliseum combatants
+2748: beginning the final
+2749: quest 1: ruby
+2750: quest 2: citrine
+2751: quest 3: emerald
+2752: quest 4: sapphire
+2753: quest 5: amethyst
+2754: quest 6: opal
+2755: quest 7: diamond
+2756: 1st chaos beast
+2757: 2nd chaos beast
+2758: 3rd chaos beast
+2759: 4th chaos beast
+2760: 5th chaos beast
+2761: 6th chaos beast
+2762: 7th chaos beast
+2763: 9th chaos beast
+2764: 10th chaos beast
+2765: 11th chaos beast: do not release
+2766: alina 1
+2767: alina 2
+2768: quest 3
+2769: quest 4
+2770: quest 5
+2771: maya daily 1
+2772: maya daily 2
+2773: maya daily 3
+2774: maya 4
+2775: maya 5
+2776: cysero 1
+2777: cysero daily 2
+2778: defeat drram
+2779: take on tergum
+2780: smack down slork
+2781: crush krashh
+2782: win the exhibition match
+2783: mow down munthor!
+2784: challenge meatball
+2785: challenge blixx
+2786: dragonfire spice cake
+2787: dragonpepper punch
+2788: dragondoodle cookies
+2789: dragon tail trophies
+2790: nothing
+2791: dragon head trophies
+2792: surveillance for sir valence
+2793: well planned getaway
+2794: secrets of the map prince
+2795: nothing
+2796: potion of clensing
+2797: you've been noticed
+2798: thorny situtations
+2799: other ingredients
+2800: time for supplies
+2801: cooking without fire
+2802: introduction
+2803: courtyard key
+2804: take out the choas manticore!
+2805:  shocking footwear
+2806:  new shoes
+2807:  mouth of the lion
+2808:  storm the storm temple
+2809:  a high minded matter
+2810:  storm bottles
+2811:  breaching defenses
+2812:  chaos lightning rods
+2813:  barrier buster
+2814:  face chaos lord lionfang!
+2815:  face ultra lionfang!
+2816: daily retention quest 1
+2817: daily retention quest 2
+2818: daily retention quest 3
+2819: daily retention quest 4
+2820: daily retention quest 5
+2821: strange golden egg
+2822: slimy golden egg
+2823: moving golden egg
+2824: cracking golden egg
+2825: strange platinum egg
+2826: slimy platinum egg
+2827: moving platinum egg
+2828: cracking platinum egg
+2829: wait for cabdury
+2830: mission 6
+2831: fuel for flight
+2832: food for flight
+2833: vomit comet
+2834: sweet dreams for a safe flight
+2835: platinium egg hammer
+2836: golden egg hammer
+2837: reach vr room
+2838: speak with h.a.l.
+2839: defeat h.a.l.
+2840: choose j6 cutscene
+2841: reduce, respawn, recycle
+2842: mind your manners
+2843: fundraisers!
+2844: security breach
+2845: no sniffin' around
+2846: key to winning
+2847: shadowscythe recruitment
+2848: gravelyn's loyal retainer
+2849: bully the thug
+2850: watch chapter 1
+2851: save the girl
+2852: watching prologue
+2853: find explosive supplies
+2854: robot defence league
+2855: battle the space raptor
+2856: spare j6
+2857: supplies to spin the wheel of chance (2)
+2858: j6 epilogue
+2859: the assistant (2)
+2860: voucher item(non-member): twin blade of nulgath
+2861: warlic's letter to rayst
+2862: rayst's response
+2863: chat with cysero
+2864: you'll never get me, copper!
+2865: lode me up
+2866: the spark
+2867: gi-ants
+2868: what big teeth you have
+2869: speak to alina
+2870: return the potion to cysero
+2872: enter the entrance
+2873: can you dig it?
+2874: snip snip
+2875: resonations
+2876: eureka!
+2877: push-button start
+2878: out of coal
+2879: start the reaction
+2880: start her up
+2881: we have arrived!
+2882: hardened crystals
+2883: quadtanium?
+2884: capacitance
+2885: the heart of the world
+2886: glimpse of the dark side
+2887: unded energy
+2888: mage essence
+2889: trainee
+2890: endurance
+2891: path of the warrior
+2892: warrior spirit
+2893: healer knowledge
+2894: white wizard
+2895: protection
+2896: light ways
+2897: shadow hour
+2898: mix it up!
+2899: shadow skills
+2900: evade and counterstrike!
+2901: hunt for the amulet
+2902: slay the necromancer's soldiers
+2903: the book of portals
+2904: battle for a lost love
+2905: into the blight
+2906: getaway gardian
+2907: blightbringer's doom
+2908: blood titan defender
+2909: bright idea
+2910: spare parts
+2911: power it up
+2912: filthy creatures
+2913: wave after wave
+2914: take out their firepower
+2915: help where it is needed
+2916: bring a ward to a swordfight
+2917: cut off the head
+2918: speak to dage the good
+2919: rearm the legion of light
+2920: free their souls
+2921: one ring
+2922: severing ties
+2923: legion's lifesblood
+2924: legion's purpose
+2925: what's his endgame?
+2926: a stopping block
+2927: boost morale
+2928: alteon's folly
+2929: doomfire
+2930: spoiled souls
+2931: purity of bone
+2932: undead artix returnes
+2933: find the stonewrit!
+2934: find the handle!
+2935: find the hilt!
+2936: find the blade!
+2937: find the runes!
+2938: let the blood flow
+2939: evolve your awe weapon
+2940: batting chaos
+2941: conquering chaos
+2942: feeding the frozen flame
+2943: fire for the frozen flame
+2944: lore cores
+2945: volcanic exploration
+2946: retrieve the ancient artifact: fire staff
+2947: retrieve the ancient artifact: ice orb
+2948: this guy's on her side
+2949: fotia's only hope
+2950: seek the souls
+2951: legion armored daimyo
+2952: the challenge begins
+2953: fight to survive
+2954: the battle's heating up
+2955: a close shave
+2956: monster 1: zardman grunt
+2957: monster 2: skeletal soldier
+2958: monster 3: skeletal viking
+2959: monster 4: skeletal warrior
+2960: monster 5: skeletal ice mage
+2961: monster 6: horc warrior
+2962: boss 1: boss zardman
+2963: boss 2: big jack sprat
+2964: boss 3: general porkon
+2965: eye spy a victim
+2966: help me!
+2967: get your hands dirty
+2968: a rocky battle
+2969: soul-d on defeat
+2970: the key to help me
+2971: help me again!
+2972: grim underdungein i
+2973: grim underdungeon ii
+2974: overheated hero
+2975: grim underdungeon iii
+2976: grim underdungeon iv
+2977: grim underdungeon v
+2978: grim underdungeon vi
+2979: grim underdungeon vii
+2980: grim underdungeon viii
+2981: the blade-breaker
+2982: anti magic warrior
+2983: elemental destroyer
+2984: grim underdungeon ix
+2985: grim underdungeon x
+2986: grim underdungeon xi
+2987: grim underdungeon xii
+2988: grim underdungeon xiii
+2989: grim underdungeon xiv
+2990: grim underdungeon xv
+2991: grim underdungeon xvi
+2992: grim underdungeon xvii
+2993: grim underdungeon xviii
+2994: grim underdungeon xix
+2995: grim underdungeon xx
+2996: grim underdungeon xxi
+2997: grim underdungeon xxii
+2998: grim underdungeon xxiii
+2999: grim underdungeon xxiv
+3000: grim underdungeon xxv
+3001: build a hero blade
+3002: build a hero hilt
+3004: grim underdungeon xxix
+3005: grimblight challenge
+3006: the unkillable
+3007: key to victory
+3008: i command you, help me!
+3009: high legion champion
+3010: soul searching
+3011: chamber of grief
+3012: chamber of anxiety
+3013: chamber of disease
+3014: chamber of old age
+3015: chamber of fear
+3016: chamber of hunger
+3017: chamber of death
+3018: chamber of agony
+3019: chamber of sleep
+3020: begin your underworld journey
+3021: exalted legion champion
+3022: sullen souls survival
+3023: wrathful souls rage
+3024: hydra hospitality
+3025: dage's guard dog
+3026: blade to rest
+3027: soul'd out
+3028: deathly joys? bah.
+3029: rosetta stones
+3030: cull the foot soldiers
+3031: bad vibes
+3032: quite the problem
+3033: valoth pet quest
+3034: impressive
+3035: the raven's loss
+3036: the power of flowers
+3037: a bouqet of blessing
+3038: the time for judgement
+3039: judged on perfromance
+3040: judged on undead legion standard
+3041: judged on allegiance to dage
+3042: challenge allegiance to dage
+3043: endurance test
+3044: dage's black box
+3045: bloodblade of nulgath
+3046: "kindness" of nulgath
+3047: help mechquest!
+3048: help professor mueran
+3049: help professor maedoc
+3050: help professor warlic
+3052: welcome to dragonrune hall
+3053: feed the fiend tokens
+3054: quest of mystery test
+3055: memet test quest!
